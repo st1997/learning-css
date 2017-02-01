@@ -1,0 +1,50 @@
+table {
+    background-color: dimgrey;
+    padding: 0px;
+    margin: 0px;
+    border-spacing: 0px;
+    font-size: 12px;
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 7px;
+}
+
+th {
+    font-size: 18px;
+    color: #ccc;
+    text-align: left;
+}
+
+td:nth-child(2n+1) {
+    color: lightgoldenrodyellow;
+    font-style: italic;
+}
+
+.orange {
+    color: orange;
+}
+
+.pink {
+    color: lightpink;
+}
+
+.blue {
+    color: darkblue;
+}
+
+#red {
+    color: red;
+    font-size: 14px;
+}
+
+li {
+    color: lightgreen;
+    font-size: 25px;
+}
+
+a.pink {
+    margin: -35px;
+    font-size: 12px;
+}
