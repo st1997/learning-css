@@ -1,0 +1,25 @@
+section {
+    background-color: lightgrey;
+    padding: 5px;
+    width: 40%;
+    border-radius: 10px;
+}
+
+article {
+    border: 1px solid gray;
+    margin: 20px 10px;
+    background-color: white;
+    display: inline-block;
+}
+
+img {
+    width: 40%;
+    margin: 15px;
+    border: 1px solid gray;
+}
+
+div {
+}
+
+
+
